@@ -1,0 +1,11 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\bin\Debug\NumericUpDown&EkranAlintisiAlma.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\bin\Debug\NumericUpDown&EkranAlintisiAlma.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\bin\Debug\NumericUpDown&EkranAlintisiAlma.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown&EkranAlintisiAlma.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown_EkranAlintisiAlma.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown_EkranAlintisiAlma.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown&EkranAlintisiAlma.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown&EkranAlintisiAlma.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown&EkranAlintisiAlma.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown&EkranAlintisiAlma.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C# FORM\NumericUpDown&EkranAlintisiAlma\obj\Debug\NumericUpDown_EkranAlintisiAlma.Form2.resources
